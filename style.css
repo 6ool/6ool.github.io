@@ -4,6 +4,10 @@ h1 {
   background-color: #333:
 }
 
+a {
+  color: #333;
+}
+
 .box {
   margin: 1em 0;
   background-color: #fff;
