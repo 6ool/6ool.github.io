@@ -13,6 +13,8 @@ a {
   background-color: #fff;
   border: 2px solid #333;
   letter-spacing: .3px;
+  
+  border-radius:15px;
 }
 
 .box_title {
@@ -21,4 +23,7 @@ a {
   background-color: #333;
   padding: 4px 6px;
   text-align: center;
+  
+  border-top-left-radius:10px;
+  border-top-right-radius:10px;
 }
